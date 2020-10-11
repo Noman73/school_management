@@ -1,0 +1,127 @@
+
+@media (max-width:575px) {
+  form{
+    width: 95% !important;
+  }
+}
+body{
+  background-color:rgba(0,100,100,0.2);
+}
+a:hover{
+  text-decoration: none;
+}
+
+#tcno{
+  text-align: center;
+  text-transform: capitalize;
+  color:green;
+  margin-top:80px;
+}
+#updt{
+  text-transform: capitalize;
+  color:blue;
+  margin-top:40px;
+}
+.ctgr{
+  text-decoration:none;
+  color: red;
+  text-transform: capitalize;
+
+}
+.img-fluid.max-width{
+  width:100%;
+  height: 500px;
+}
+.carousel-control-prev-icon{
+  background-color:black;
+  }
+.carousel-control-next-icon{
+  background-color: black;
+}
+
+.ctgr a:hover{
+  background-color: pink;
+  text-decoration: none;
+}
+
+/*the news update slide text*/
+
+/* end  the news update slide text*/
+
+/* admin panel */
+
+
+.header{
+  padding: 10px;
+  background-color:rgba(0,250,0,0.2);
+  line-height: 5px;
+  text-transform: capitalize;
+  border-bottom: 2px solid black;
+}
+#button{
+  margin-top: 10px;
+  
+}
+.button{
+  display: block;
+  margin-left:10px;
+  margin-bottom: 10px;
+  line-height:15px;
+}
+.button:hover{
+  background-color: brown;
+}
+.ad-buttons{
+  border: 1px solid black;
+  height:100%;
+  background-color:white;
+   line-height:0;
+}
+#footer{
+  align:bottom;
+}
+
+
+/*add-student page */
+
+#add-student{
+
+}
+
+
+/*payment page */
+#payment{
+  width:50%;
+  margin:0 auto;
+}
+
+#st-payment{
+  width:100%;
+  margin:0 auto;
+}
+.log-head{
+  margin-top:80px;
+  margin-bottom: 50px;
+}
+
+.wel-msg{
+  margin-top: 60px;
+}
+.info{
+  margin-top: 50px;
+}
+.head{
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+.st-head{
+  line-height:5px;
+  margin-top: 60px;
+}
+.th-name{
+  width:100px;
+}
+
+.msg{
+  margin-top:100px;
+}
